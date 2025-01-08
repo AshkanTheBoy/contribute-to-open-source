@@ -24,7 +24,7 @@ exports.multiply = (x, y) => {
 
 exports.divide = (x, y) => {
   exports._check(x, y);
-  return x / ydfsdf;
+  return x / y;
 };
 
 module.exports = exports;
